@@ -3,7 +3,7 @@
 Console.WriteLine("Coder by day, gamer by night");
 ```
 
-My real name is [Kenton Standard](https://www.linkedin.com/in/kentonstandard/), but my online handle is Simple Sandman. I'm currently a Database Adminstrator (3 years now), but I've been keeping up with my .NET chops as shown with my commits below. On my personal time if I'm not gaming or streaming on Twitch, I'm a back-end .NET developer with various side projects. I have to say, C# has been a dream for me to write in. I've always been fascinated with the C++ syntax, but the versatility and ease of maintenance C# brings has been nothing less than fun!
+My real name is [Kenton Standard](https://www.linkedin.com/in/kentonstandard/), but my online handle is Simple Sandman. I'm currently a Database Adminstrator, but I've been keeping up with my .NET chops as shown with my commits below. On my personal time if I'm not gaming or streaming on Twitch, I'm a back-end .NET developer with various side projects. I have to say, C# has been a dream for me to write in. I've always been fascinated with the C++ syntax, but the versatility and ease of maintenance C# brings has been nothing less than fun!
 
 ## Past Projects
 I've built a [Twitch Chat Bot](https://github.com/SimpleSandman/TwitchBot) for my [Twitch channel](https://www.twitch.tv/simple_sandman). This allows me to stream my favorite games knowing that my partner-in-crime has my back! It's always awesome to tell people that I've written this from scratch while shooting bad guys or jumping over obstacles because it gives me a chance to tell them one of my biggest passions.
