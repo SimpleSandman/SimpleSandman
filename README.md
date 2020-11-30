@@ -9,7 +9,7 @@ My real name is Kenton Standard, but my online handle is Simple Sandman. I'm cur
 I've built a [Twitch Chat Bot](https://github.com/SimpleSandman/TwitchBot) for my [Twitch channel](https://www.twitch.tv/simple_sandman). This allows me to stream my favorite games knowing that my partner-in-crime has my back! It's always awesome to tell people that I've written this from scratch while shooting bad guys or jumping over obstacles because it gives me a chance to tell them one of my biggest passions.
 
 ## Current Projects
-I'm currently finishing up a library called, [Fate/Grand Calculator](https://github.com/SimpleSandman/FateGrandCalculator). Which is based on the mobile anime game, [Fate/Grand Order](https://fate-go.us/) and that will help figure out combat calculations. This will be used for my upcoming Xamarin app which will simulate node combat and help manage your personal Chaldea. Let's be real here. Who wants to input their servants and CEs over and over again? 😏
+I'm currently finishing up a library called, [Fate/Grand Calculator](https://github.com/SimpleSandman/FateGrandCalculator). This is based on the mobile anime game, [Fate/Grand Order](https://fate-go.us/) and that will help figure out combat calculations. This will be used for my upcoming Xamarin app which will simulate node combat and help manage your personal Chaldea because let's be real here, who wants to input their servants and CEs over and over again? 😏
 
 ## GitHub Stats
 
