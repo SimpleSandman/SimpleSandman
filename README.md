@@ -1,7 +1,11 @@
-### Hello! I'm Simple Sandman! 👋
+# Hello! I'm Simple Sandman! 👋
+```csharp
+Console.WriteLine("Coder by day, gamer by night");
+```
 
-My real name is Kenton Standard, but my online handle is Simple Sandman. I'm a coder by day, gamer by night. I'm currently a Database Adminstrator (3 years now), but I keep up with my .NET chops as shown with my commits below. On my personal time, I'm backend .NET developer who has built a Twitch Chat Bot for my Twitch channel. This allows me to stream my favorite games knowing that my partner-in-crime has my back! C# is a dream for me to write in. I've always been fascinated with the C++ syntax, but the versatility and ease of maintenance C# brings has been nothing less than fun!
+My real name is Kenton Standard, but my online handle is Simple Sandman. I'm currently a Database Adminstrator (3 years now), but I keep up with my .NET chops as shown with my commits below. On my personal time, I'm a backend .NET developer who has built a Twitch Chat Bot for my Twitch channel. This allows me to stream my favorite games knowing that my partner-in-crime has my back! C# is a dream for me to write in. I've always been fascinated with the C++ syntax, but the versatility and ease of maintenance C# brings has been nothing less than fun!
 
+## Current Projects
 I'm currently finishing up a library based on the mobile anime game, "Fate/Grand Order" that will help figure out combat calculations. This will be used for my upcoming app in Xamarin that will simulate combat and help manage your personal Chaldea.
 
 <!--
