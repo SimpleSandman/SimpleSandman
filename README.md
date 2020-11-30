@@ -11,6 +11,16 @@ I've built a [Twitch Chat Bot](https://github.com/SimpleSandman/TwitchBot) for m
 ## Current Projects
 I'm currently finishing up a library called, [Fate/Grand Calculator](https://github.com/SimpleSandman/FateGrandCalculator). Which is based on the mobile anime game, [Fate/Grand Order](https://fate-go.us/) and that will help figure out combat calculations. This will be used for my upcoming Xamarin app which will simulate node combat and help manage your personal Chaldea. Let's be real here. Who wants to input their servants and CEs over and over again? 😏
 
+## GitHub Stats
+
+<a href="https://github.com/SimpleSandman">
+  <img src="https://github-readme-stats.vercel.app/api?username=simplesandman&show_icons=true&theme=dark&hide=contribs" />
+</a>
+<br/>
+<a href="https://github.com/SimpleSandman">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplesandman&theme=dark" />
+</a>
+
 <!--
 **SimpleSandman/simplesandman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
