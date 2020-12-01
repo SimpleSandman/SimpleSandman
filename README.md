@@ -3,13 +3,17 @@
 Console.WriteLine("Coder by day, gamer by night");
 ```
 
-My real name is [Kenton Standard](https://www.linkedin.com/in/kentonstandard/), but my online handle is Simple Sandman. I'm currently a Database Adminstrator, but I've been keeping up with my .NET chops as shown with my commits below. On my personal time if I'm not gaming or streaming on Twitch, I'm a back-end .NET developer with various side projects. I have to say, C# has been a dream for me to write in. I've always been fascinated with the C++ syntax, but the versatility and ease of maintenance C# brings has been nothing less than fun!
+My real name is [Kenton Standard](https://www.linkedin.com/in/kentonstandard/), but my online handle is Simple Sandman. I'm currently a Database Adminstrator, but I've been keeping up with my .NET chops as shown with my commits below. On my personal time if I'm not gaming or streaming on Twitch, I'm a back-end .NET developer with various side projects. I have to say, C# has been a dream for me to write in. I've always been fascinated with the C++ syntax, but the versatility and ease of maintenance C# brings has been nothing less than fun! 
+
+The dream is to develop video games and that's what got me into the coding industry and to get my bachelor's in Computer Science. Once I'm ready to learn modern C++, then I'll be getting back on the path in developing high-performing games with the fundamentals C# has taught me to this day. But for now, I have on-going projects I want to complete.
+
+Even though I do have that desire burning inside, that doesn't stop me from contributing the highest quality code in any industry I work in.
 
 ## Past Projects
 I've built a [Twitch Chat Bot](https://github.com/SimpleSandman/TwitchBot) for my [Twitch channel](https://www.twitch.tv/simple_sandman). This allows me to stream my favorite games knowing that my partner-in-crime has my back! It's always awesome to tell people that I've written this from scratch while shooting bad guys or jumping over obstacles because it gives me a chance to tell them one of my biggest passions.
 
 ## Current Projects
-I'm currently finishing up a library called, [Fate/Grand Calculator](https://github.com/SimpleSandman/FateGrandCalculator). This is based on the mobile anime game, [Fate/Grand Order](https://fate-go.us/) and that will help figure out combat calculations. This will be used for my upcoming Xamarin app which will simulate node combat and help manage your personal Chaldea because let's be real here, who wants to input their servants and CEs over and over again? 😏
+I'm currently finishing up a library called, [Fate/Grand Calculator](https://github.com/SimpleSandman/FateGrandCalculator). This is based on the mobile anime game, [Fate/Grand Order](https://fate-go.us/) (which is built in Unity 2018) and that will help figure out combat calculations. This will be used for my upcoming Xamarin app which will simulate node combat and help manage your personal Chaldea because let's be real here, who wants to input their servants and CEs over and over again? 😏
 
 ## GitHub Stats
 
