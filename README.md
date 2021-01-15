@@ -11,6 +11,8 @@ I have built a [Twitch Chat Bot](https://github.com/SimpleSandman/TwitchBot) for
 ## Current Projects
 I am currently finishing up a library called, [Fate/Grand Calculator](https://github.com/SimpleSandman/FateGrandCalculator). This is based on the mobile anime game, [Fate/Grand Order](https://fate-go.us/) (which is built in Unity 2018) and that will help figure out combat calculations. This will be used for my upcoming Xamarin app which will simulate node combat and help manage your personal Chaldea because let's be real here, who wants to input their servants and CEs over and over again? 😏
 
+I am also working on my first Visual Studio Extension called, [Json Formatter](https://marketplace.visualstudio.com/items?itemName=KentonStandard.JsonFormatter) that will minify or prettify your JSON file inside your code window. This is compatibile with Visual Studio 2017/2019. This is [open-source](https://github.com/SimpleSandman/JsonFormatter) if you want to contribute to the extension.
+
 ## GitHub Stats
 
 <a href="https://github.com/SimpleSandman">
