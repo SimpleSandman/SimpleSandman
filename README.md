@@ -8,10 +8,10 @@ My real name is [Kenton Standard](https://www.linkedin.com/in/kentonstandard/), 
 ## Past Projects
 I have built a [Twitch Chat Bot](https://github.com/SimpleSandman/TwitchBot) for my [Twitch channel](https://www.twitch.tv/simple_sandman). This allows me to stream my favorite games knowing that my partner-in-crime has my back! It is always awesome to tell people that I have written this from scratch while shooting bad guys or jumping over obstacles because it gives me a chance to tell them one of my biggest passions.
 
+I have also built my first Visual Studio Extension called, [Json Formatter](https://marketplace.visualstudio.com/items?itemName=KentonStandard.JsonFormatter) that will minify or prettify your JSON file inside your code window. This is compatibile with Visual Studio 2017/2019. This is [open-source](https://github.com/SimpleSandman/JsonFormatter) if you want to contribute to the extension.
+
 ## Current Projects
 I am currently finishing up a library called, [Fate/Grand Calculator](https://github.com/SimpleSandman/FateGrandCalculator). This is based on the mobile anime game, [Fate/Grand Order](https://fate-go.us/) (which is built in Unity 2018) and that will help figure out combat calculations. This will be used for my upcoming Xamarin app which will simulate node combat and help manage your personal Chaldea because let's be real here, who wants to input their servants and CEs over and over again? 😏
-
-I am also working on my first Visual Studio Extension called, [Json Formatter](https://marketplace.visualstudio.com/items?itemName=KentonStandard.JsonFormatter) that will minify or prettify your JSON file inside your code window. This is compatibile with Visual Studio 2017/2019. This is [open-source](https://github.com/SimpleSandman/JsonFormatter) if you want to contribute to the extension.
 
 ## GitHub Stats
 
