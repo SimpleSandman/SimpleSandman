@@ -13,7 +13,7 @@ I have also built my first Visual Studio Extension called, [Json Formatter](http
 ## Current Projects
 I am currently finishing up a library called, [Fate/Grand Calculator](https://github.com/SimpleSandman/FateGrandCalculator). This is based on the mobile anime game, [Fate/Grand Order](https://fate-go.us/) (which is built in Unity 2018) and that will help figure out combat calculations. This will be used for my upcoming Xamarin app which will simulate node combat and help manage your personal Chaldea because let's be real here, who wants to input their servants and CEs over and over again? 😏
 
-I am also building a [community API](https://github.com/SimpleSandman/UmaMusumeAPI) for a mobile anime game called, [Uma Musume: Pretty Derby](https://umamusume.jp/). I already have a [console app](https://github.com/SimpleSandman/UmaMusumeLoadSqlData) to help load and reload data into either a SQL Server database (which is my preferred RDMS thanks to my DBA days) or MySQL/MariaDB.
+I also have a [community API](https://www.tracenacademy.com/index.html) that is [open-source](https://github.com/SimpleSandman/UmaMusumeAPI) for a mobile anime game called, [Uma Musume: Pretty Derby](https://umamusume.jp/). I already have a [loader app](https://github.com/SimpleSandman/UmaMusumeLoadSqlData) to help reload data into either a SQL Server database or MySQL/MariaDB.
 
 ## GitHub Stats
 
