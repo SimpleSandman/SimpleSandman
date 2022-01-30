@@ -15,7 +15,7 @@ I have a library called, [Fate/Grand Calculator](https://github.com/SimpleSandma
 ## Current Projects
 I also have a [community API](https://www.tracenacademy.com/index.html) that is [open-source](https://github.com/SimpleSandman/UmaMusumeAPI) for a mobile anime game called, [Uma Musume: Pretty Derby](https://umamusume.jp/). I even have a [loader app](https://github.com/SimpleSandman/UmaMusumeLoadSqlData) to help reload data into either a SQL Server database or MySQL/MariaDB.
 
-Here I have a [.NET CLI implementation](https://github.com/SimpleSandman/UmaMusumeToolbox) of [rockisch's umamusu-utils](https://github.com/rockisch/umamusu-utils) script. This allows you to download the assets from Uma Musume's meta file via `.exe` and `appsettings.json`.
+Here I have a [.NET CLI implementation](https://github.com/SimpleSandman/UmaMusumeToolbox) of [rockisch's umamusu-utils](https://github.com/rockisch/umamusu-utils) script for [Uma Musume: Pretty Derby](https://umamusume.jp/). This allows you to download the assets from the game's meta file via `.exe` and `appsettings.json`.
 
 ## GitHub Stats
 
