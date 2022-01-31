@@ -23,9 +23,9 @@ Here I have a [.NET CLI implementation](https://github.com/SimpleSandman/UmaMusu
   <img src="https://github-readme-stats.vercel.app/api?username=simplesandman&show_icons=true&theme=dark&hide=contribs" />
 </a>
 <br/>
-<a href="https://github.com/SimpleSandman">
+<!--a href="https://github.com/SimpleSandman">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplesandman&theme=dark" />
-</a>
+</a-->
 
 <!--
 **SimpleSandman/simplesandman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
