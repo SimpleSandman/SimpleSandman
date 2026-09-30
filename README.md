@@ -5,10 +5,9 @@ Console.WriteLine("Coder by day, gamer by night");
 
 My real name is [Kenton Standard](https://www.linkedin.com/in/kentonstandard/), but my online handle is Simple Sandman. On my personal time if I am not gaming or streaming on Twitch, I am a .NET developer with various side projects. I have to say, C# has been a dream for me to write in. I have always been fascinated with the C++ syntax, but the versatility and ease of maintenance C# brings has been nothing less than fun! 
 
-## Current Personal Project
-I am building a [Twitch Chat Bot](https://github.com/SimpleSandman/TwitchBot) for my [Twitch channel](https://www.twitch.tv/simple_sandman). This allows me to stream my favorite games knowing my partner-in-crime has my back! It is always awesome to tell people that I have written this from scratch while shooting bad guys or jumping over obstacles because it gives me a chance to tell them one of my biggest passions.
+## Personal Projects
+I have built a [Twitch Chat Bot](https://github.com/SimpleSandman/TwitchBot) for my [Twitch channel](https://www.twitch.tv/simple_sandman). This allowed me to stream my favorite games knowing my partner-in-crime has my back! It is always awesome to tell people that I have written this from scratch while shooting bad guys or jumping over obstacles because it gives me a chance to tell them one of my biggest passions.
 
-## Past Projects
 I had a community API that was [open-source](https://github.com/SimpleSandman/UmaMusumeAPI) for a mobile anime game called, [Uma Musume: Pretty Derby](https://umamusume.jp/). I even had a [loader app](https://github.com/SimpleSandman/UmaMusumeLoadSqlData) to help reload data into a MariaDB database.
 
 Here I have a [.NET CLI implementation](https://github.com/SimpleSandman/UmaMusumeToolbox) of [rockisch's umamusu-utils](https://github.com/rockisch/umamusu-utils) script for [Uma Musume: Pretty Derby](https://umamusume.jp/). This allows you to download the assets from the game's meta file via `.exe` and `appsettings.json`.
