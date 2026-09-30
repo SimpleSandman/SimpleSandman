@@ -9,7 +9,7 @@ My real name is [Kenton Standard](https://www.linkedin.com/in/kentonstandard/), 
 I am building a [Twitch Chat Bot](https://github.com/SimpleSandman/TwitchBot) for my [Twitch channel](https://www.twitch.tv/simple_sandman). This allows me to stream my favorite games knowing my partner-in-crime has my back! It is always awesome to tell people that I have written this from scratch while shooting bad guys or jumping over obstacles because it gives me a chance to tell them one of my biggest passions.
 
 ## Past Projects
-I also have a [community API](https://www.tracenacademy.com/index.html) that is [open-source](https://github.com/SimpleSandman/UmaMusumeAPI) for a mobile anime game called, [Uma Musume: Pretty Derby](https://umamusume.jp/). I even have a [loader app](https://github.com/SimpleSandman/UmaMusumeLoadSqlData) to help reload data into either a SQL Server database or MySQL/MariaDB.
+I had a community API that was [open-source](https://github.com/SimpleSandman/UmaMusumeAPI) for a mobile anime game called, [Uma Musume: Pretty Derby](https://umamusume.jp/). I even had a [loader app](https://github.com/SimpleSandman/UmaMusumeLoadSqlData) to help reload data into a MariaDB database.
 
 Here I have a [.NET CLI implementation](https://github.com/SimpleSandman/UmaMusumeToolbox) of [rockisch's umamusu-utils](https://github.com/rockisch/umamusu-utils) script for [Uma Musume: Pretty Derby](https://umamusume.jp/). This allows you to download the assets from the game's meta file via `.exe` and `appsettings.json`.
 
